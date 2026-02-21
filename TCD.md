@@ -20,3 +20,9 @@ Une seule ligne d'en-tête
 
 ### Règle 5
 Le nom d'en-tête unique. Exemple : ne pas avoir deux colonnes portant le nom __Ventes__.
+
+## Exemples
+
+### Exemple 1
+
+### Exemple 2
