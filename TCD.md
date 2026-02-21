@@ -26,6 +26,7 @@ Pas de céllules fusionnées
 
 # Important
 Transformer les données à traiter en tableau (CTRL+L ou CTRL+T).
+
 Retirer éventuellement les mises en forme.
 
 ## Exemples
