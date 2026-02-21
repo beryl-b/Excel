@@ -21,6 +21,13 @@ Une seule ligne d'en-tête
 ### Règle 5
 Le nom d'en-tête unique. Exemple : ne pas avoir deux colonnes portant le nom __Ventes__.
 
+### Règle 6
+Pas de céllules fusionnées
+
+# Important
+Transformer les données à traiter en tableau (CTRL+L ou CTRL+T).
+Retirer éventuellement les mises en forme.
+
 ## Exemples
 
 ### Exemple 1
