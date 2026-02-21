@@ -1,5 +1,6 @@
 # Recherche V
 
+## Définition
 La fonction RECHERCHEV() permet d’ajouter dans un tableau Excel, une donnée venant d’une autre feuille, ou d’un autre classeur Excel.
 
 # Fichier 1
