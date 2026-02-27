@@ -7,8 +7,8 @@ Un TCD pour tableaux croisés dynamiques permet de représenter les informations
 Il existe des règles préalables à appliquer sur un tableau de données, avant de croiser les données.
 
 ### Règle 1
-Le tableau doit être entièrement rempli. Aucune ligne, colonne ou céllule vide.  
-Pas de céllules fusionnées.
+Le tableau doit être entièrement rempli. Aucune ligne, colonne ou cellule vide.  
+Pas de cellules fusionnées.
 
 ### Règle 2
 Pas de ligne de sous-total.
@@ -25,7 +25,7 @@ Transformer les données à traiter sous forme de tableau (CTRL+L ou CTRL+T).
 Retirer éventuellement les mises en forme.
 
 __Procédure :__
-- Sélectionner une céllule quelconque du tableau
+- Sélectionner une cellule quelconque du tableau
 - Aller à Menu -> Accueil -> Mettre sous forme de tableau
 - Choisir une mise en page
 - Cocher la case "Mon tableau comporte des en-têtes"
